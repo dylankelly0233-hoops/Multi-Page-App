@@ -1,0 +1,10 @@
+AlphaPoint_Sports/
+├── assets/
+│   └── logo.png          # Save your PPT logo here
+├── pages/
+│   ├── 1_🏈_NFL.py
+│   ├── 2_🏀_NBA.py
+│   ├── 3_⚾_MLB.py
+│   └── 4_🎓_College_Basketball.py  <-- Your CBB code goes here
+├── Home.py               # The Main Landing Page (Matches your PPT)
+└── style.css             # Custom styling (Fonts, colors)
